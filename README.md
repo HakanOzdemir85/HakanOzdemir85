@@ -1,7 +1,6 @@
 
 
 <h1 align="center">Hi there, I’m Hakan 👋</h1>
-
 <div align="center">
 <a href="https://www.linkedin.com/in/hakan-%C3%B6zdemir-a6a30272/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:hakan.ozdemir85@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
