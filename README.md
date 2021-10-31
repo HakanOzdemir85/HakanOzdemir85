@@ -37,6 +37,18 @@
             <td align="center">💲</td>
             <td align="left"><strong>Commercial Relationship Manager</strong> in a bank</td>
         </tr>
+              <tr>
+            <td align="center">🎓</td>
+            <td align="left">Associate degree in <strong>"Web Design and Coding"</strong></td>
+        </tr>
+          <tr>
+            <td align="center">🎓</td>
+            <td align="left">Bachelor's degree in <strong>"Business Administration"</strong></td>
+        </tr>
+          <tr>
+            <td align="center">🎓</td>
+            <td align="left">Master's degree in <strong>"Banking and Finance"</strong></td>
+        </tr>
         <tr>
             <td align="center">🎸</th>
             <td align="left"> Mid-Level <strong>Electric Guitar Player</strong></td>
@@ -49,18 +61,7 @@
             <td align="center">🥊</td>
             <td align="left">Entry-Level <strong>Kick Boxer</strong></td>
         </tr>
-          <tr>
-            <td align="center">🎓</td>
-            <td align="left">Associate degree in <strong>"Web Design and Coding"</strong></td>
-        </tr>
-          <tr>
-            <td align="center">🎓</td>
-            <td align="left">Bachelor's degree in <strong>"Business Administration"</strong></td>
-        </tr>
-          <tr>
-            <td align="center">🎓</td>
-            <td align="left">Master's degree in <strong>"Banking and Finance"</strong></td>
-        </tr>
+    
     </thead>
 </table>
 <h2></h2>
