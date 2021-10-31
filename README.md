@@ -65,7 +65,6 @@
             <td align="center">🎮</td>
             <td align="left">Veteran <strong>PC Gamer</strong></td>
         </tr>
-    
     </thead>
 </table>
 <h2></h2>
