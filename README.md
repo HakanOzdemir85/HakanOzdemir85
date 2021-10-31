@@ -61,7 +61,6 @@
             <td align="center">🥊</td>
             <td align="left">Entry-Level <strong>Kick Boxer</strong></td>
         </tr>
-    
     </thead>
 </table>
 <h2></h2>
