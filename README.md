@@ -58,7 +58,7 @@
             <td align="left">Amateur <strong>Composer</strong></td>
         </tr>
      <tr>
-            <td align="center"🏍️</td>
+            <td align="center">🏍️</td>
             <td align="left">Passionate <strong>Motorcycle Rider</strong></td>
         </tr>
         <tr>
