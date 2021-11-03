@@ -59,7 +59,7 @@
         </tr>
         <tr>
             <td align="center">🥊</td>
-            <td align="left">Entry-Level <strong>Kick Boxer</strong></td>
+            <td align="left">Tough<strong>Kick Boxer</strong></td>
         </tr>
      <tr>
             <td align="center">🎮</td>
