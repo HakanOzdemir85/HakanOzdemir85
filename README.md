@@ -31,11 +31,11 @@
     <thead>
         <tr>
             <td align="center">💻</td>
-            <td align="left">An enthusiastic <strong>Front End Development learner</strong></td>
+            <td align="left">Enthusiastic <strong>Front End Development learner</strong></td>
         </tr>
         <tr>
             <td align="center">💲</td>
-            <td align="left"><strong>Commercial Relationship Manager</strong> in a bank</td>
+            <td align="left"><strong>Commercial Relationship Manager </strong>in a bank</td>
         </tr>
               <tr>
             <td align="center">🎓</td>
@@ -56,6 +56,10 @@
         <tr>
             <td align="center">🎵</td>
             <td align="left">Amateur <strong>Composer</strong></td>
+        </tr>
+     <tr>
+            <td align="center"🏍️</td>
+            <td align="left">Passionate <strong>Motorcycle Rider</strong></td>
         </tr>
         <tr>
             <td align="center">🥊</td>
