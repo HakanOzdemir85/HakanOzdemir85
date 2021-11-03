@@ -26,7 +26,7 @@
 </div>
 <h2></h2>
 
-<h4 align="center">About Me ❓</h4>
+<h4 align="center">About Me 🙋‍♂️</h4>
 <table align="center">
     <thead>
         <tr>
