@@ -1,7 +1,6 @@
 
 
-<h3 align="center">Hi there, I’m Hakan 👋</h3>
-<h2></h2>
+<h2 align="center">Hi there, I’m Hakan 👋</h2>
 <h4 align="center">Reach out to me &#128071;&#127997</h4>
 <div align="center">
 <a href="https://www.linkedin.com/in/hakan-%C3%B6zdemir-a6a30272/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
