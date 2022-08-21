@@ -62,10 +62,6 @@
             <td align="center">🏍️</td>
             <td align="left">Passionate <strong>Motorcycle Rider</strong></td>
         </tr>
-        <tr>
-            <td align="center">🥊</td>
-            <td align="left">Tough <strong>Kick Boxer</strong></td>
-        </tr>
      <tr>
             <td align="center">🎮</td>
             <td align="left">Veteran <strong>PC Gamer</strong></td>
