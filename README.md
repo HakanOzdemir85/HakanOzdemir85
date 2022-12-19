@@ -43,7 +43,7 @@
         </tr>
         <tr>
             <td align="center">💲</td>
-            <td align="left"><strong>+15 years Commercial Relationship Manager </strong>in banking</td>
+            <td align="left">+15 years <strong>Commercial Relationship Manager </strong>in banking</td>
         </tr>
               <tr>
             <td align="center">🎓</td>
