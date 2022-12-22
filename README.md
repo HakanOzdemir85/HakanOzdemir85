@@ -38,7 +38,7 @@
 <table align="center">
     <thead>
         <tr>
-            <td align="center">💻</td>
+            <td align="center">🧑🏽‍💻</td>
             <td align="left">Enthusiastic <strong>Front End Development learner</strong></td>
         </tr>
         <tr>
