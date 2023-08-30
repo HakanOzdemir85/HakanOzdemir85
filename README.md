@@ -3,9 +3,9 @@
 <h2 align="center">Hi there, I’m Hakan 👋</h2>
 <h4 align="center">Reach out to me &#128071;&#127997</h4>
 <div align="center">
-<a href="https://www.linkedin.com/in/hakan-%C3%B6zdemir-a6a30272/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:hakan.ozdemir85@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/hakan.ozdemir_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/devhakanozdemir/"/></a>
+<a href="mailto:dev.hakanozdemir@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/dev.hakanozdemir_en/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </div>
 <h2></h2>
 
